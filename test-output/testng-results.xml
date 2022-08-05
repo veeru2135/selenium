@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed ]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed ]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-03T06:56:58Z" name="Default suite" finished-at="2022-08-03T06:57:11Z" duration-ms="12989">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T06:56:58Z" name="Default test" finished-at="2022-08-03T06:57:11Z" duration-ms="12989">
+      <class name="com.hrms.testscripts.tc001">
+        <test-method signature="TC001()[pri:0, instance:com.hrms.testscripts.tc001@6caf0677]" started-at="2022-08-03T12:26:58Z" name="TC001" finished-at="2022-08-03T12:27:11Z" duration-ms="12974" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed ]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed ]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+      </class> <!-- com.hrms.testscripts.tc001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
